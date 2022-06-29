@@ -30,7 +30,7 @@ display: inline-block;
   
 }
 .one{
-  
+  color:black;
   font-size: 50px;
   text-align: center;
   border-style: solid;
@@ -40,6 +40,7 @@ display: inline-block;
   border-radius: 20px;
   }
   .two {
+   color:black;
     font-size: 50px;
     text-align: center;
     color: black;
@@ -52,12 +53,14 @@ display: inline-block;
   
   
   .three {
+   font-size: 28px
     color: red;
     background-color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
   }
     .four {
+   
       text-align: center;
       color: white;
       font-family: Georgia, 'Times New Roman', Times, serif;
